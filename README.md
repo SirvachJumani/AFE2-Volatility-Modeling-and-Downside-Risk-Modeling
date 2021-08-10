@@ -2,7 +2,7 @@
 University Trier - Applied Financial Econometrics - Project 2
 
 
-# SUMMARY for Volatility Modeling: 
+# Summary for Volatility Modeling: 
 In the time-series 5 weekdays data of Euro stock close exchange price, firstly cleaning and manipulating the dataset and then first using AIC and autocorrelation to find the best ARMA GARCH model for up to five lags for the log-returns. Afterward, check the volatility clustering in the dataset. Finally generates the GJR-GARCH and EGARCH model to check the leverage effect is present or not in the Euro stock data set.
 
 # Task done in Volatility Modeling
@@ -13,7 +13,7 @@ In the time-series 5 weekdays data of Euro stock close exchange price, firstly c
 5. Use a GJR-GARCH(1,1) model to check whether we have leverage effects are present in the dataset.
 6. Use an EGARCH(1,1) for the same purpose whether we have leverage effects are present in the dataset. 
 
-# SUMMARY for Downside Risk Modeling
+# Summary for Downside Risk Modeling
 Description for Downside Risk Modeling: Using the same dataset of Euro stock. firstly compute the empirical distribution for the historical simulation at Value at Risk (VaR) (99%) and Expected Shortfall (ES) (99%), moreover create GARCH combination models with Normal distribution, Student t distribution, Normal GJR-GARCH distribution, and Student GJR-GARCH distribution to check which model performs better in term of the correct conditional and unconditional coverage by Backtest of Value at Risk (VaR).
 
 # Task done in Downside Risk Modeling
